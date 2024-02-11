@@ -20,4 +20,4 @@ To run this application, you need to have Go installed on your machine and postg
 ### Important
 
 1. Configure your database in db/db.go
-2. Create a table called produtos with columns id serial primary key, nome varchar, descricao varchar, preco numeric, quantidade, integer. 
+2. Create a table called `produtos` with columns `id serial primary key, nome varchar, descricao varchar, preco numeric, quantidade, integer`. 
